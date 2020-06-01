@@ -45,6 +45,6 @@ Interpretable Feature Learning of MRI Data using Generative Adversarial Networks
 
 ### 결론
 * 본 논문에서는 MRI 데이터의 disentangled representation을 배우기 위해 InfoGAN을 확장할 것을 제안했다.
-• 제안된 모델은 MRI의 분류에 대한 disentangled representation을 학습했다.
-• 제안된 모델은 MRI 기반 알츠하이머병 진단 시 모델의 결정을 해석하는 데 도움이 되는 의미 있는 특징들을 학습했다.
-• 제안된 모델은 의료 영상을 이용한 다른 질병 진단에 적용될 수 있으며, 여기서 중요한 특징이 무엇인지 해석하고 시각화 한다.
+* 제안된 모델은 MRI의 분류에 대한 disentangled representation을 학습했다.
+* 제안된 모델은 MRI 기반 알츠하이머병 진단 시 모델의 결정을 해석하는 데 도움이 되는 의미 있는 특징들을 학습했다.
+* 제안된 모델은 의료 영상을 이용한 다른 질병 진단에 적용될 수 있으며, 여기서 중요한 특징이 무엇인지 해석하고 시각화 한다.
