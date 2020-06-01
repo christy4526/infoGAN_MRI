@@ -29,9 +29,15 @@ Interpretable Feature Learning of MRI Data using Generative Adversarial Networks
 * 검증 순서   
 ![스크린샷, 2020-06-01 17-45-44](https://user-images.githubusercontent.com/25657945/83392271-c6908680-a42f-11ea-88ce-b2c1d25c064b.png)
 
-* MRI-infoGAN model 검증   
+     
 ![스크린샷, 2020-06-01 17-47-06](https://user-images.githubusercontent.com/25657945/83392358-ee7fea00-a42f-11ea-90c3-64e89a9a9817.png)
 
 
-
 ### 결과
+* 생성된 이미지
+  - 목표 : continuous latent code가 어떤 조합에서 disentangled representation을 학습하는지 찾는 것
+  - MRI의 feature는 독립적으로 disentangled representation을 학습하지 않음
+  - c1, c3 은 특정 조합에서 disentangled representation을 보여줌   
+![스크린샷, 2020-06-01 17-49-44](https://user-images.githubusercontent.com/25657945/83393508-de690a00-a431-11ea-94bf-06d13e4e53a5.png)
+  - c1과 c3의 조합에 따라 생성된 이미지   
+  ![스크린샷, 2020-06-01 17-49-58](https://user-images.githubusercontent.com/25657945/83393511-df9a3700-a431-11ea-8ef2-7114f4646a34.png)
