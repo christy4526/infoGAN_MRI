@@ -16,7 +16,7 @@ Interpretable Feature Learning of MRI Data using Generative Adversarial Networks
   - 정상(NC) : 228개
   - 알츠하이머 환자(AD) : 188개
 * 공간적 정규화(SPM v12 이용) 후 axial 측면의 37번 째 슬라이스 이용
-![스크린샷, 2020-06-01 17-39-07](https://user-images.githubusercontent.com/25657945/83391894-26d2f880-a42f-11ea-9e4a-05c3bd8b4c45.png)
+![스크린샷, 2020-06-01 17-42-55](https://user-images.githubusercontent.com/25657945/83391996-5a158780-a42f-11ea-88c8-0aca0084c818.png)
 
 ### 모델 구조 
 * MRI-infoGAN model
