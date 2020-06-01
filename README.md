@@ -23,3 +23,15 @@ Interpretable Feature Learning of MRI Data using Generative Adversarial Networks
   - 목표 : disentangled representation 학습
   - 오리지널 InfoGAN과 다르게 MRI-infoGAN모델은 continuous code만 사용
 ![스크린샷, 2020-06-01 17-43-49](https://user-images.githubusercontent.com/25657945/83392072-787b8300-a42f-11ea-9526-360a2a859ed0.png)
+
+
+### 모델 검증
+* 검증 순서
+![스크린샷, 2020-06-01 17-45-44](https://user-images.githubusercontent.com/25657945/83392271-c6908680-a42f-11ea-88ce-b2c1d25c064b.png)
+
+* MRI-infoGAN model 검증
+![스크린샷, 2020-06-01 17-47-06](https://user-images.githubusercontent.com/25657945/83392358-ee7fea00-a42f-11ea-90c3-64e89a9a9817.png)
+
+
+
+### 결과
