@@ -26,10 +26,10 @@ Interpretable Feature Learning of MRI Data using Generative Adversarial Networks
 
 
 ### 모델 검증
-* 검증 순서
+* 검증 순서   
 ![스크린샷, 2020-06-01 17-45-44](https://user-images.githubusercontent.com/25657945/83392271-c6908680-a42f-11ea-88ce-b2c1d25c064b.png)
 
-* MRI-infoGAN model 검증
+* MRI-infoGAN model 검증   
 ![스크린샷, 2020-06-01 17-47-06](https://user-images.githubusercontent.com/25657945/83392358-ee7fea00-a42f-11ea-90c3-64e89a9a9817.png)
 
 
